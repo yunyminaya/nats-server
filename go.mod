@@ -1,9 +1,9 @@
 module github.com/nats-io/nats-server/v2
 
-go 1.20
+go 1.24
 
 require (
-	github.com/klauspost/compress v1.17.7
+	github.com/klauspost/compress v1.18.7
 	github.com/minio/highwayhash v1.0.2
 	github.com/nats-io/jwt/v2 v2.5.5
 	github.com/nats-io/nats.go v1.33.1
